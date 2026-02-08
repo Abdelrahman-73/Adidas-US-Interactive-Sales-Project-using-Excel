@@ -52,7 +52,10 @@ The goal was to analyze historical sales data to optimize future sales strategie
 
 ---
 
-## 🚀 How to Use
+## 📂 Dashboard Overview
+<img width="1842" height="677" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/55c535de-1c56-4bc2-9350-2a90a587da07" />
+
+### Full Interactive Experience
 1. Download the file **`Adidas-US-Interactive-Sales-Project - Abdelrahman.xlsx`**.
 2. Open it in **Microsoft Excel**.
 3. Navigate to the **"Dashboard"** sheet (or Sheet 1).
