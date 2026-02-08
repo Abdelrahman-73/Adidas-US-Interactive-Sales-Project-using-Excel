@@ -8,7 +8,7 @@ This project involves a comprehensive analysis of **Adidas US sales data** to id
 
 ## 📂 Repository Contents
 * **`Adidas-US-Interactive-Sales-Project - Abdelrahman.xlsx`**: The complete Excel workbook containing the raw data, pivot tables, and the interactive dashboard.
-* **`Dashboard_Screenshot.png`**: A preview of the final dashboard view.
+* **`Screenshot 2026-02-03 014201.png`**: A preview of the final dashboard view.
 
 ---
 
